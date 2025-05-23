@@ -1,83 +1,79 @@
-<h2 align="center"> Hi there 👋 , I'm Tanvir Hasan <br/></h2> 
+<h2 align="center">Hi there 👋, I'm Tanvir Hasan</h2>
 <div align="center">
 
-<!--- ........................................................Links................................................................ --->
-
+<!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/TanvirSEF" >
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/TanvirSEF?label=Github%20followers">
-  </a> 
-  <a href="https://github.com/TanvirSEF" >
-    <img src="https://komarev.com/ghpvc/?username=TanvirSEF&label=Views&color=green" alt="views on github" />
-  </a>	
+  <a href="https://github.com/TanvirSEF"><img src="https://img.shields.io/github/followers/TanvirSEF?label=GitHub%20Followers&style=social" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/tanvircs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tanvirmern.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.facebook.com/tanvirmern/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/TanvirSEF"><img src="https://komarev.com/ghpvc/?username=TanvirSEF&label=Views&color=green" alt="Profile Views" /></a>
 </p>
 
-<!--- ........................................................Introduction................................................................ --->
+<!-- Introduction -->
+<h3>🚀 About Me</h3>
+<p align="center">
+  Hello! I’m <strong>Tanvir Hasan</strong>, a passionate full-stack developer specializing in <strong>React</strong>, <strong>Flutter</strong>, and databases. <br/>
+  I thrive on turning creative ideas into scalable web and mobile applications. <br/>
+  I’m currently open to <strong>freelance projects</strong>, <strong>full-time opportunities</strong>, and exciting <strong>collaborations</strong>.
+</p>
 
-I'm a computer engineer specialising in web application development. My primary goal is to use my expertise to create unique work. In addition, I am a full-time learner who enjoys exposure to new technology. <be>
-On the other side, I am a traveller who enjoys life to the fullest. Reading literature and playing chess are two of my favourite pastimes. My favourite hobbies are cooking, and gaming.
+🌟 <i>Fun fact:</i> I can debug a stubborn app bug while planning my next travel adventure 🧳.<br/>
+✨ <i>Unique thing about me:</i> I mix clean code and creativity—just like cooking, it's all about the right ingredients. 🍳
 
 </div>
 
+---
 
-
-<!--- ................................................Tech Stack........................................................................ --->
-<h2 align="center">
-💻 Tech Stack
-</h2>
-
+<h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
-	
-### Programming Languages
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Dart](https://img.shields.io/badge/-dart-3776AB?logo=dart&logoColor=white&style=flat)
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+### 🌐 Frontend & UI
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
+### 🛠️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### Web Tools, Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Nextjs](https://img.shields.io/badge/nextjs-%23563D7C.svg?style=flat-square&logo=nextjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=flat-square&logo=tailwind&logoColor=white)
-
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
-### Servers, Runtime Environments & Load Balancers
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
-![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-  
-### Other
-
-![PHPUnit](https://img.shields.io/badge/PHPUnit-%23080B8C.svg?style=flat-square&logo=php&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+### ⚙️ Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
+---
 
-<!--- .................................................🤝 Github Stats....................................................................... --->
-<h2 align="center">🤝 Github Stats</h2>
-<!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdiktushar&show_icons=true&locale=en&layout=compact" alt="mdiktushar" /></p> -->
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdiktushar&show_icons=true&locale=en" alt="mdiktushar" /></p> -->
-
+<h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-	
 
-[![](https://raw.githubusercontent.com/TanvirSEF/TanvirSEF-readme/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/TanvirSEF/TanvirSEF-readme/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/TanvirSEF/TanvirSEF-readme/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/TanvirSEF/TanvirSEF-readme/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanvirSEF&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirSEF&layout=compact&theme=radical)
+
+[![Tanvir's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TanvirSEF&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://raw.githubusercontent.com/TanvirSEF/TanvirSEF-readme/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/TanvirSEF/TanvirSEF-readme/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/TanvirSEF/TanvirSEF-readme/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
-<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TanvirSEF" alt="TanvirSEF" /></a> </p>
 
+---
+
+<h2 align="center">🎯 Interests & Hobbies</h2>
+<p align="center">When I'm not coding, you'll probably find me traveling ✈️, cooking 🍜, or gaming 🎮!</p>
+
+---
