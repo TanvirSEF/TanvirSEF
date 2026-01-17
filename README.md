@@ -47,7 +47,6 @@ When I'm not coding, I'm exploring other passions:
 | **Category** | **Interest** |
 | :--- | :--- |
 | 📸 **Photography** | Capturing portraits with my **Nikon D5300**. |
-| 🏍️ **Riding** | Exploring new roads on my **Honda Hornet 2.0**. |
 | 🍜 **Cooking** | Experimenting with new recipes in the kitchen. |
 | ✈️ **Travel** | Always planning the next adventure. |
 
