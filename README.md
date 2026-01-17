@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Tanvir%20Hasan&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Tanvir%20Hasan&fontSize=70&animation=fadeIn" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Team+Lead+at+Zephlo+Tech;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Engineer | Team Lead at Zephlo Tech 🚀</h3>
-  
   <p align="center">
-    <a href="https://tanvircs.com"><b>Portfolio</b></a> •
-    <a href="https://linkedin.com/in/tanvircs"><b>LinkedIn</b></a> •
-    <a href="https://facebook.com/tanvirmern"><b>Facebook</b></a>
+    <a href="https://tanvirmern.com/"><b>Portfolio</b></a> •
+    <a href="https://www.linkedin.com/in/tanvircs/"><b>LinkedIn</b></a> •
+    <a href="https://www.facebook.com/tanvirmern/"><b>Facebook</b></a>
   </p>
 
   <p>
@@ -41,21 +43,21 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirSEF&show_icons=true&theme=tokyonight&count_private=true" alt="Tanvir's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirSEF&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanvirSEF&show_icons=true&theme=radical" alt="Tanvir's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirSEF&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanvirSEF&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TanvirSEF&theme=algolia" alt="Trophies" />
 </div>
 
 ---
 
 ### 🤝 Let's Connect
 <p align="left">
-  <a href="mailto:contact@tanvircs.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tanvircs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/tanvirmern"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:tanvirmern@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanvircs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/tanvirmern/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Turning coffee into scalable systems since day one."</i> ☕</p>
