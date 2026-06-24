@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ✨ Premium animated sky-blue → black gradient header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:38bdf8,50:1e3a5f,100:0d1117&text=Tanvir%20Hasan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Zephlo%20Tech%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=58&descColor=38bdf8" alt="Tanvir Hasan Banner"/>
+<!-- ✨ Premium banner (committed SVG — 100% reliable, no third-party dependency) -->
+<img width="100%" src="./banner.svg" alt="Tanvir Hasan Banner"/>
 
 <br/>
 
@@ -198,6 +198,6 @@ At **Zephlo Tech**, we help businesses transform ideas into powerful digital pro
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:38bdf8,50:1e3a5f,100:0d1117" alt="Footer"/>
+<sub>✦ ✦ ✦</sub>
 
 </div>
